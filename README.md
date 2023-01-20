@@ -1,2 +1,3 @@
 # portfolio_projects
-My portfolio projects
+
+## This repository contains my portfolio projects.
