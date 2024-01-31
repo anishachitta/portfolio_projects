@@ -1,0 +1,72 @@
+{
+    "root": [
+        [
+            {
+                "id": 3
+            },
+            {
+                "id": 862,
+                "value": "651632"
+            },
+            {
+                "id": 30,
+                "value": "Employee"
+            },
+            {
+                "id": 813,
+                "value": "Department 4"
+            }
+        ],
+        [
+            {
+                "id": 4
+            },
+            {
+                "id": 278,
+                "value": "13264"
+            },
+            {
+                "id": 905,
+                "value": "Consultant"
+            },
+            {
+                "id": 747,
+                "value": "Department 5"
+            }
+        ],
+        [
+            {
+                "id": 5
+            },
+            {
+                "id": 441,
+                "value": "11111"
+            },
+            {
+                "id": 735,
+                "value": "Manager"
+            },
+            {
+                "id": 25,
+                "value": "Department 3"
+            }
+        ],
+        [
+            {
+                "id": 6
+            },
+            {
+                "id": 420,
+                "value": "22222"
+            },
+            {
+                "id": 574,
+                "value": "Senior Engineer"
+            },
+            {
+                "id": 547,
+                "value": "Department 3"
+            }
+        ]
+    ]
+}

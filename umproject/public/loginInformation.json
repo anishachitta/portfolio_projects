@@ -1,0 +1,24 @@
+{
+    "root": [
+        {
+            "Name": "John",
+            "email": "firstsample@test.com",
+            "password": "firstsample"
+        },
+        {
+            "Name": "Jane",
+            "email": "secondsample@test.com",
+            "password": "secondsample"
+        },
+        {
+            "Name": "Joe",
+            "email": "thirdsample@test.com",
+            "password": "thirdsample"
+        },
+        {
+            "Name": "Jenny",
+            "email": "fourthsample@test.com",
+            "password": "fourthsample"
+        }
+    ]
+}
